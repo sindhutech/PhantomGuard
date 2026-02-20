@@ -74,7 +74,7 @@ Deployment:
 
 ---
 
-## System Architecture
+## Process flow diagram
 
 ![Process flow diagram](docs/process-flow-diagram.png)
 
