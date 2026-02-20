@@ -49,6 +49,11 @@ The system shifts institutions from passive monitoring to proactive energy intel
 
 Architecture diagrams are available in the `/docs` folder.
 
+
+<p align="center">
+  <img src="docs/system-architecture.png" width="750">
+</p>
+
 ---
 
 ## Technology Stack
