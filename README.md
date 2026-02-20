@@ -76,7 +76,7 @@ Deployment:
 
 ## System Architecture
 
-![Architecture Diagram](Process flow diagram or Use-case diagram.png)
+![Architecture Diagram](process-flow-diagram.png)
 
 ## Future Scope
 
