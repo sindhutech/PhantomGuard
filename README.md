@@ -74,6 +74,10 @@ Deployment:
 
 ---
 
+## System Architecture
+
+![Architecture Diagram](Process flow diagram or Use-case diagram.png)
+
 ## Future Scope
 
 - Real-time IoT integration
